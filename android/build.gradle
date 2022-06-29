@@ -38,6 +38,7 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
     defaultConfig {
+        targetSdkVersion 31
         minSdkVersion 21
     }
     lintOptions {
@@ -47,5 +48,9 @@ android {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+<<<<<<< HEAD
     implementation "com.withpersona.sdk:inquiry:1.1.19"
+=======
+    implementation "com.withpersona.sdk2:inquiry:2.2.9"
+>>>>>>> 9f48fbd924ecdfa76d945677fb1a5f5d359c9b57
 }

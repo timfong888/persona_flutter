@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 2.1.1
 
 * Fix typedefs export.
@@ -89,3 +90,8 @@
 ## 1.0.0
 
 * Initial release.
+=======
+## 3.0.0-beta.0
+
+* Initial release of native v2 SDKs implementation
+>>>>>>> 9f48fbd924ecdfa76d945677fb1a5f5d359c9b57
